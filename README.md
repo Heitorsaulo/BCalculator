@@ -1,6 +1,4 @@
 # Projeto-mobile
-Primeiros projetos do curso de kotlin na plataforma udemy.
-
-lista de projetos
+Primeiro projeto do curso de kotlin na plataforma udemy.
 ------------------
-#1 - Calculadora com todas as operações básicas
+Calculadora com todas as operações básicas.
